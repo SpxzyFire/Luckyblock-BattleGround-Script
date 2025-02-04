@@ -9,3 +9,4 @@ game.UserInputService.InputBegan:Connect(function(i, g)
 end)
 
 for _, v in pairs(game.ReplicatedStorage.Weapons:GetDescendants()) do if v.Name == 'RecoilControl' then v.Value = 0 end if v.Name == 'MaxSpread' then v.Value = 0 end if v.Name == 'Auto' then v.Value = true end end -- 0 recoil + full auto
+```
