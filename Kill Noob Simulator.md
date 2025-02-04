@@ -38,3 +38,4 @@ resetAmmo()
 ```
 
 
+Pistol give G Switch will be added later on (basicly makes your Glock 17 full auto, making the game thinking that your gun indeed has the GSwitch
