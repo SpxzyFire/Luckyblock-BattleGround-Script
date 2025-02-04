@@ -1,8 +1,3 @@
-# Ammo Changer [ GUN MOD ]
-should work with every guns normally
-
-```lua
-
 local player = game.Players.LocalPlayer
 
 local gunNames = {
@@ -35,8 +30,3 @@ player.CharacterAdded:Connect(function()
 end)
 
 resetAmmo()
-```
-
-
-Glock 17 Full auto Gun Mod
-will be added later on (basicly makes your Glock 17 full auto, making the game thinking that your gun indeed has the GSwitch
