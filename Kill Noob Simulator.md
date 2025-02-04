@@ -1,4 +1,4 @@
-# Bullet Ammo Changer
+# Ammo Changer [ GUN MOD ]
 should work with every guns normally
 
 ```lua
