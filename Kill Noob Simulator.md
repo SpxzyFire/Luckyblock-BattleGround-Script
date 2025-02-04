@@ -35,3 +35,6 @@ player.CharacterAdded:Connect(function()
 end)
 
 resetAmmo()
+```
+
+
