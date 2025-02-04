@@ -1,5 +1,3 @@
-# Highligh/Cham
-```lua
 local ESPEnabled = true
 local HighlightColor = Color3.fromRGB(255, 255, 255)
 
@@ -30,5 +28,3 @@ game.Players.PlayerAdded:Connect(function(player)
         createESP(player)
     end)
 end)
-```
-
